@@ -13,6 +13,7 @@
 - **Game Dev**: Godot 3D
 - **Infrastructure**: System Design, Networking
 - **Security**: Cybersecurity Principles
+- **Blockchain**: Ehereum based solidity ,web3 security
 
 ### 💡 Expertise
 - Architecting scalable solutions
