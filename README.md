@@ -24,7 +24,7 @@
 - ML/AI integration
 
 🌍 Based in Bangladesh
-✨ Creating innovative solutions since 2023
+✨ Creating innovative solutions since 2025
 
 Let's connect and build something amazing together! 
 
