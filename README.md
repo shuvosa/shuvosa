@@ -1,16 +1,30 @@
-## Hi there 👋
+# Shohanur Islam (@shuvosa) 👋
 
-<!--
-**shuvosa/shuvosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Solution Architect & Full-Stack Developer
 
-Here are some ideas to get you started:
+🌟 Solution architect specializing in Node.js and JavaScript ecosystems, with a diverse technical background spanning multiple domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Stack
+- **Backend**: Node.js, PHP, Python, C++
+- **Frontend**: JavaScript, Modern Web Technologies
+- **E-commerce**: Shopify App Development
+- **CMS**: WordPress Plugin Development
+- **AI/ML**: Python-based Machine Learning
+- **Game Dev**: Godot 3D
+- **Infrastructure**: System Design, Networking
+- **Security**: Cybersecurity Principles
+
+### 💡 Expertise
+- Architecting scalable solutions
+- Full-stack web development
+- E-commerce applications
+- Custom WordPress solutions
+- Security-first approach
+- ML/AI integration
+
+🌍 Based in Bangladesh
+✨ Creating innovative solutions since 2023
+
+Let's connect and build something amazing together! 
+
+[![GitHub](https://img.shields.io/github/followers/shuvosa?label=Follow&style=social)](https://github.com/shuvosa)
