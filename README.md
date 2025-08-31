@@ -4,17 +4,6 @@
 
 🌟 Solution architect specializing in Node.js and JavaScript ecosystems, with a diverse technical background spanning multiple domains.
 
-### 🔧 Technical Stack
-- **Backend**: Node.js, PHP, Python, C++
-- **Frontend**: JavaScript, Modern Web Technologies
-- **E-commerce**: Shopify App Development
-- **CMS**: WordPress Plugin Development
-- **AI/ML**: Python-based Machine Learning
-- **Game Dev**: Godot 3D
-- **Infrastructure**: System Design, Networking
-- **Security**: Cybersecurity Principles
-- **Blockchain**: Ehereum based solidity ,web3 security
-
 ### 💡 Expertise
 - Architecting scalable solutions
 - Full-stack web development
